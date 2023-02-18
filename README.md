@@ -1,6 +1,6 @@
 # Pong-the-famous-arcade-game
  This Python code is a program that simulates the classic game Pong.
-It imports necessary modules such as Screen, Bat, Ball, and Scoreboard. It also sets up the game window with dimensions of 800 by 600 pixels, a black background, and a title of "Pong". The program sets the screen tracer to 0 so that the animations are not displayed until the screen is updated.
+It imports necessary modules such as Screen, Bat, Ball, and Scoreboard. It also tkinter to set up the game window with dimensions of 800 by 600 pixels, a black background, and a title of "Pong". The program sets the screen tracer to 0 so that the animations are not displayed until the screen is updated.
 
 An instance of the Scoreboard class is created to display the scores, and two instances of the Bat class are created to represent the left and right bats respectively. The Ball class is also instantiated to represent the ball used in the game.
 
